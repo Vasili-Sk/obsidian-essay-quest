@@ -1,0 +1,10 @@
+{
+  "id": "essay-quest",
+  "name": "Essay Quest",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Gamify writing with live stats, Pomodoro, levels, and achievements.",
+  "author": "VasiliSk",
+  "authorUrl": "https://boosty.to/vasilisk_workshop",
+  "isDesktopOnly": false
+}
