@@ -142,3 +142,6 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
 /build-and-deploy.cmd
+/main.js
+/main.js.map
+/package-lock.json

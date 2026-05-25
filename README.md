@@ -2,20 +2,29 @@
 
 Gamified writing dashboard for Obsidian:
 
-- Live document stats (words, quality, paragraphs, sentences)
-- Daily progress (words, XP, paragraphs, sentences, best quality)
+- Live document stats
+- Daily progress and focus score
 - Pomodoro timer (default 25/5, editable)
 - Level progression with progress bar to next level
-- Achievements unlock only during active Pomodoro work mode
-- Right-click context actions:
-  - Global progress
-  - Achievement list
-  - Reset achievements
+- Daily quests and achievements
+
+## Screenshots
+
+### Pomodoro
+![Pomodoro](pomodoro.png)
+
+### Document Progress
+![Document progress](docprogress.png)
+
+### Daily Progress
+![Daily progress](youprogress.png)
+
+### ToDo
+![ToDo](todos.png)
 
 ## Build
 
-1. Open terminal in this folder:
-   - `D:\ProjectsExternal\gameNotepad\obsidian-essay-quest`
+1. Open terminal in this folder
 2. Install deps:
    - `npm install`
 3. Build:
@@ -39,5 +48,5 @@ This generates:
 
 ## Open dashboard
 
-- Click sword ribbon icon, or
+- Click sword icon on the left, or:
 - Command palette: `Toggle Essay Quest Dashboard`
