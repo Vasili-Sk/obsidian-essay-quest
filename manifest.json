@@ -5,6 +5,9 @@
   "minAppVersion": "1.5.0",
   "description": "Gamify writing with live stats, Pomodoro, levels, and achievements.",
   "author": "VasiliSk",
-  "authorUrl": "https://boosty.to/vasilisk_workshop",
-  "isDesktopOnly": false
+  "authorUrl": "https://github.com/Vasili-Sk/obsidian-essay-quest",
+  "isDesktopOnly": false,
+  "fundingUrl": {
+    "Boosty": "https://boosty.to/vasilisk_workshop"
+  }
 }
