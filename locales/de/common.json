@@ -1,0 +1,14 @@
+﻿{
+  "settings.locale.auto": "Automatisch (App-Sprache)",
+  "settings.locale.en": "Englisch",
+  "settings.locale.ru": "Russisch",
+  "settings.locale.es": "Spanisch",
+  "settings.locale.de": "Deutsch",
+  "common.weekday.mo": "MO",
+  "common.weekday.tu": "DI",
+  "common.weekday.we": "MI",
+  "common.weekday.th": "DO",
+  "common.weekday.fr": "FR",
+  "common.weekday.sa": "SA",
+  "common.weekday.su": "SO"
+}

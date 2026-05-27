@@ -282,13 +282,13 @@
 }
 
 .eq-week-bubble.is-done {
-  border-color: #16a34a;
-  background: #dcfce7;
-  color: #166534;
+  border-color: #fbbf24;
+  background: #fef3c7;
+  color: #92400e;
 }
 
-.eq-week-bubble.is-grace {
-  border-color: #0ea5e9;
+.eq-week-bubble.is-missed {
+  border-color: #0284c7;
   background: #e0f2fe;
   color: #075985;
 }

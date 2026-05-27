@@ -145,3 +145,4 @@ vite.config.ts.timestamp-*
 /main.js
 /main.js.map
 /package-lock.json
+/build/*

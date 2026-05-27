@@ -1,0 +1,21 @@
+{
+  "ach.modal.title": "Panel de Essay Quest",
+  "ach.modal.desc": "Configura el temporizador y la organización de módulos en Obsidian Settings > Essay Quest.",
+  "ach.global.title": "Progreso global",
+  "ach.achievements.title": "Logros",
+  "ach.toggle.group": "Agrupar logros",
+  "ach.toggle.ungroup": "Desagrupar logros",
+  "ach.empty": "No hay logros para mostrar en la vista de agrupación actual.",
+  "ach.resets.title": "Restablecimientos",
+  "ach.reset.session.name": "Reiniciar progreso de todos los documentos (mantener ToDo)",
+  "ach.reset.daily.name": "Reiniciar estadísticas diarias",
+  "ach.reset.global.name": "Reiniciar XP global + logros (mantener documentos)",
+  "ach.reset.todo.name": "Limpiar ToDo del documento actual",
+  "ach.button.reset": "Reiniciar",
+  "ach.button.clear_todo": "Limpiar ToDo",
+  "ach.confirm.session": "¿Reiniciar todas las estadísticas de documentos (palabras/calidad/ninja/pomodoro/xp/niveles) manteniendo las tareas ToDo?",
+  "ach.confirm.daily": "¿Reiniciar estadísticas diarias de hoy?",
+  "ach.confirm.global": "¿Reiniciar XP global, racha, estadísticas diarias y logros manteniendo el progreso de documentos?",
+  "ach.confirm.todo": "¿Limpiar todas las tareas ToDo del documento activo actual?",
+  "ach.fallback": "Render de respaldo de logros activo: {{error}}"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "ach.modal.title": "Панель Essay Quest",
+  "ach.modal.desc": "Настройте таймер и организацию модулей в Obsidian Settings > Essay Quest.",
+  "ach.global.title": "Глобальный прогресс",
+  "ach.achievements.title": "Достижения",
+  "ach.toggle.group": "Сгруппировать достижения",
+  "ach.toggle.ungroup": "Разгруппировать достижения",
+  "ach.empty": "Нет достижений для отображения в текущем режиме группировки.",
+  "ach.resets.title": "Сбросы",
+  "ach.reset.session.name": "Сбросить прогресс всех документов (сохранить ToDo)",
+  "ach.reset.daily.name": "Сбросить дневную статистику",
+  "ach.reset.global.name": "Сбросить глобальный XP + достижения (сохранить документы)",
+  "ach.reset.todo.name": "Очистить ToDo в текущем документе",
+  "ach.button.reset": "Сброс",
+  "ach.button.clear_todo": "Очистить ToDo",
+  "ach.confirm.session": "Сбросить всю статистику документов (слова/качество/ниндзя/помодоро/xp/уровни), сохранив задачи ToDo?",
+  "ach.confirm.daily": "Сбросить дневную статистику за сегодня?",
+  "ach.confirm.global": "Сбросить глобальный XP, серию, дневную статистику и достижения, сохранив прогресс документов?",
+  "ach.confirm.todo": "Очистить все задачи ToDo для текущего активного документа?",
+  "ach.fallback": "Включён резервный рендер достижений: {{error}}"
+}

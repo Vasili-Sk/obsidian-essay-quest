@@ -1,0 +1,21 @@
+{
+  "ach.modal.title": "Essay Quest Panel",
+  "ach.modal.desc": "Configure timer and module organization in Obsidian Settings > Essay Quest.",
+  "ach.global.title": "Global Progress",
+  "ach.achievements.title": "Achievements",
+  "ach.toggle.group": "Group achievements",
+  "ach.toggle.ungroup": "Ungroup achievements",
+  "ach.empty": "No achievements to show in current grouping view.",
+  "ach.resets.title": "Resets",
+  "ach.reset.session.name": "Reset all document progress (keep ToDo)",
+  "ach.reset.daily.name": "Reset daily stats",
+  "ach.reset.global.name": "Reset global XP + achievements (keep documents)",
+  "ach.reset.todo.name": "Clear ToDo in current document",
+  "ach.button.reset": "Reset",
+  "ach.button.clear_todo": "Clear ToDo",
+  "ach.confirm.session": "Reset all document stats (words/quality/ninja/pomodoro/xp levels) while keeping ToDo items?",
+  "ach.confirm.daily": "Reset daily stats for today?",
+  "ach.confirm.global": "Reset global XP, streak, daily stats, and achievements while keeping document progress?",
+  "ach.confirm.todo": "Clear all ToDo tasks for the currently active document?",
+  "ach.fallback": "Achievements render fallback active: {{error}}"
+}

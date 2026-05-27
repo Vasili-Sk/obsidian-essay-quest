@@ -1,0 +1,21 @@
+{
+  "ach.modal.title": "Essay Quest Panel",
+  "ach.modal.desc": "Timer und Modulorganisation in Obsidian Settings > Essay Quest konfigurieren.",
+  "ach.global.title": "Globaler Fortschritt",
+  "ach.achievements.title": "Erfolge",
+  "ach.toggle.group": "Erfolge gruppieren",
+  "ach.toggle.ungroup": "Erfolge entgruppieren",
+  "ach.empty": "Keine Erfolge in der aktuellen Gruppierungsansicht.",
+  "ach.resets.title": "Zurücksetzungen",
+  "ach.reset.session.name": "Gesamten Dokumentfortschritt zurücksetzen (ToDo behalten)",
+  "ach.reset.daily.name": "Tagesstatistik zurücksetzen",
+  "ach.reset.global.name": "Globales XP + Erfolge zurücksetzen (Dokumente behalten)",
+  "ach.reset.todo.name": "ToDo im aktuellen Dokument leeren",
+  "ach.button.reset": "Zurücksetzen",
+  "ach.button.clear_todo": "ToDo leeren",
+  "ach.confirm.session": "Alle Dokumentstatistiken (Wörter/Qualität/Ninja/Pomodoro/XP/Level) zurücksetzen und ToDo-Aufgaben behalten?",
+  "ach.confirm.daily": "Tagesstatistik für heute zurücksetzen?",
+  "ach.confirm.global": "Globales XP, Serie, Tagesstatistik und Erfolge zurücksetzen und Dokumentfortschritt behalten?",
+  "ach.confirm.todo": "Alle ToDo-Aufgaben im aktuell aktiven Dokument löschen?",
+  "ach.fallback": "Ersatz-Rendering für Erfolge aktiv: {{error}}"
+}

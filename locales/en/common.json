@@ -1,0 +1,14 @@
+{
+  "settings.locale.auto": "Auto (App locale)",
+  "settings.locale.en": "English",
+  "settings.locale.ru": "Russian",
+  "settings.locale.es": "Spanish",
+  "settings.locale.de": "German",
+  "common.weekday.mo": "MO",
+  "common.weekday.tu": "TU",
+  "common.weekday.we": "WE",
+  "common.weekday.th": "TH",
+  "common.weekday.fr": "FR",
+  "common.weekday.sa": "SA",
+  "common.weekday.su": "SU"
+}
